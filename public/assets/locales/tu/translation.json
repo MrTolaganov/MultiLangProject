@@ -1,0 +1,6 @@
+{
+    "app_title": "Başlık",
+    "language": "Dil",
+    "welcome_message": "Hoş geldin",
+    "days_since_release": "{{number_of_days}} gün oldu"
+  }
